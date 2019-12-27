@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/zerobank/stepdefinitions",
         dryRun = false,
-        tags = "@login1"
+        tags = "@AAct"
 
 )
 

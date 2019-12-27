@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8346206d-bd76-4560-8b52-991849c7c6d5" name="Default Changelist" comment="" />
+    <list default="true" id="8346206d-bd76-4560-8b52-991849c7c6d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zerobank/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zerobank/runners/CukesRunner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VPVR17cN4hPXacyBhwactIjoHT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,46 +92,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="87" width="1240" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577342277567">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="100" y="87" width="1240" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577480602099">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state x="100" y="87" width="1240" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1577341358152" />
+    <state x="100" y="87" width="1240" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1577480557747" />
+    <state x="100" y="87" width="1240" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.798@0.23.1440.798" timestamp="1577480602099" />
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.800@0.23.1440.800" timestamp="1577338515389" />
     <state x="100" y="87" width="1240" height="788" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.812@0.23.1440.812" timestamp="1577342277567" />
     <state x="479" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577155754001">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="479" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1577155754001" />
-    <state width="1398" height="65" key="GridCell.Tab.0.bottom" timestamp="1577346653623">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="363" y="55" key="CommitChangelistDialog2" timestamp="1577424498339">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="363" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577424498339" />
+    <state width="1398" height="114" key="GridCell.Tab.0.bottom" timestamp="1577481942442">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="65" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1577328656031" />
-    <state width="1398" height="65" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577345520884" />
+    <state width="1398" height="114" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577481942442" />
     <state width="1398" height="65" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1577346653623" />
-    <state width="1398" height="65" key="GridCell.Tab.0.center" timestamp="1577346653621">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1398" height="114" key="GridCell.Tab.0.center" timestamp="1577481942438">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="65" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1577328656028" />
-    <state width="1398" height="65" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577345520882" />
+    <state width="1398" height="114" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577481942438" />
     <state width="1398" height="65" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1577346653621" />
-    <state width="1398" height="65" key="GridCell.Tab.0.left" timestamp="1577346653621">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1398" height="114" key="GridCell.Tab.0.left" timestamp="1577481942436">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="65" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1577328656027" />
-    <state width="1398" height="65" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577345520881" />
+    <state width="1398" height="114" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577481942436" />
     <state width="1398" height="65" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1577346653621" />
-    <state width="1398" height="65" key="GridCell.Tab.0.right" timestamp="1577346653622">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1398" height="114" key="GridCell.Tab.0.right" timestamp="1577481942440">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="65" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1577328656029" />
-    <state width="1398" height="65" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577345520883" />
+    <state width="1398" height="114" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577481942440" />
     <state width="1398" height="65" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1577346653622" />
-    <state x="390" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1577368898044">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="390" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1577462573602">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="390" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1577282920408" />
     <state x="390" y="275" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1577368898044" />
-    <state x="390" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1577367984765" />
+    <state x="390" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1577462573602" />
     <state x="479" y="383" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1577285728766">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
